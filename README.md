@@ -1,0 +1,4 @@
+zshastebin
+==========
+
+hastebin.com client
