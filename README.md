@@ -1,6 +1,6 @@
 zshaste
 ==========
 
-[haste](hastebin.com) shell client.
+[haste](http://hastebin.com) shell client.
 
-Requires curl, taken from https://github.com/seejohnrun/haste-client/blob/master/README.md.
+Requires curl, taken from the [haste-client](https://github.com/seejohnrun/haste-client/blob/master/README.md) repo.
